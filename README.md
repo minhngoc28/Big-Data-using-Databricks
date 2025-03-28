@@ -20,7 +20,7 @@ Work with the `telco.csv` dataset using the Spark DataFrame API to explore and a
 - **Data types:** Boolean flags, numerical comparisons, column-wise calculations
 
 📎 [View on Databricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7187073108757925/1702432397630851/7230453132478625/latest.html?classId=4cebf91d-721d-40da-bb89-ef715bc6935c&assignmentId=df79807a-db2a-4cb9-8c7f-a78c5c4f47cc&submissionId=eb6f5420-0327-e247-18cc-b5569595a55f)
-🌐 [View source HTML](./HW1/index.html)
+🌐 [View source HTML](./HW1/index.htm)
 
 ### 🔹 Homework 2: U.S. Flights Analysis
 
@@ -32,7 +32,7 @@ Analyze U.S. domestic flight data using Spark SQL to uncover insights on delays,
 - **Visualizations:** Choropleth map (US states), bar chart, pie chart
     
 📎 [View on Databricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7187073108757925/3787615723006942/7230453132478625/latest.html?classId=4cebf91d-721d-40da-bb89-ef715bc6935c&assignmentId=2ca4b3a4-e395-4001-9589-8be8a51f45b2&submissionId=336c32ee-be22-396f-6c1e-c719060508f2)
-🌐 [View source HTML](./HW2/index.html)
+🌐 [View source HTML](./HW2/index.htm)
 
 ### 🔹 Homework 3: PageRank Calculation
 
@@ -43,7 +43,7 @@ Handling missing values, performing DataFrame joins, and computing PageRank scor
 - **Visualization:** Plot graph structure using `networkx` or `pyvis`
 
 📎 [View on Databricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7187073108757925/3842912221195175/7230453132478625/latest.html?classId=4cebf91d-721d-40da-bb89-ef715bc6935c&assignmentId=d69cf287-b365-4260-a987-c8e24e737759&submissionId=9975ba62-a648-5c1a-d758-d014c6cb9d83)
-🌐 [View source HTML](./HW3/index.html)
+🌐 [View source HTML](./HW3/index.htm)
 
 ### 🔹 Homework 4: Matrix operations with NumPy
 
@@ -54,7 +54,7 @@ Linear algebra and array manipulation using NumPy to perform various matrix-base
 - **Topics:** Matrix multiplication, array indexing, logical operations, custom matrix generation, aggregations
 
 📎 [View on Databricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7187073108757925/656805036291463/7230453132478625/latest.html?classId=4cebf91d-721d-40da-bb89-ef715bc6935c&assignmentId=c63be8cc-8182-48ce-9f8b-3a81cab8a835&submissionId=58fc4eb5-93fb-ff07-5ae0-811e540838eb)
-🌐 [View source HTML](./HW4/index.html)
+🌐 [View source HTML](./HW4/index.htm)
 
 ---
 
@@ -69,7 +69,7 @@ Analyze the Global Superstore dataset to uncover insights related to sales, prof
 - **Techniques:** Data cleaning, feature engineering, EDA, aggregations, customer segmentation, visualizations
 
 📎 [View on Databricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6055497547201518/4177655741593856/323885277877152/latest.html?classId=4cebf91d-721d-40da-bb89-ef715bc6935c&assignmentId=a9046ed2-f267-4a86-83de-006653db11ba&submissionId=5c647a70-e1d9-2a5a-90eb-062d0650c9d2)
-🌐 [View source HTML](./Finalproject/index.html)
+🌐 [View source HTML](./Finalproject/index.htm)
 
 ---
 
