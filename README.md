@@ -69,7 +69,7 @@ Analyze the Global Superstore dataset to uncover insights related to sales, prof
 - **Techniques:** Data cleaning, feature engineering, EDA, aggregations, customer segmentation, visualizations
 
 📎 [View on Databricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/6055497547201518/4177655741593856/323885277877152/latest.html?classId=4cebf91d-721d-40da-bb89-ef715bc6935c&assignmentId=a9046ed2-f267-4a86-83de-006653db11ba&submissionId=5c647a70-e1d9-2a5a-90eb-062d0650c9d2)
-🌐 [View source HTML](./FinalProject/index.html)
+🌐 [View source HTML](./Finalproject/index.html)
 
 ---
 
