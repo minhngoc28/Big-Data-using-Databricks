@@ -11,13 +11,13 @@ Each notebook demonstrates practical work with structured data, including data l
 
 
 ### 🔹 Homework 1: Telco Customer Analysis
-**Objective:**: Work with the `telco.csv` dataset using the Spark DataFrame API to explore and analyze customer billing and contract details.
+**Objective:** Work with the `telco.csv` dataset using the Spark DataFrame API to explore and analyze customer billing and contract details.
 **Tools & Methods:**
 - **Spark DataFrame API:** `select`, `groupBy`, `agg`, `filter`, `withColumn`
 - **Visualization:** Pie chart (Databricks built-in or Python library)
 - **Data types:** Boolean flags, numerical comparisons, column-wise calculations
-- 📎 [View on Databricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7187073108757925/1702432397630851/7230453132478625/latest.html?classId=4cebf91d-721d-40da-bb89-ef715bc6935c&assignmentId=df79807a-db2a-4cb9-8c7f-a78c5c4f47cc&submissionId=eb6f5420-0327-e247-18cc-b5569595a55f)
-- 🌐 [View source HTML](./HW1/index.html)
+📎 [View on Databricks](https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/7187073108757925/1702432397630851/7230453132478625/latest.html?classId=4cebf91d-721d-40da-bb89-ef715bc6935c&assignmentId=df79807a-db2a-4cb9-8c7f-a78c5c4f47cc&submissionId=eb6f5420-0327-e247-18cc-b5569595a55f)
+🌐 [View source HTML](./HW1/index.html)
 
 ### 🔹 Homework 2: Data Filtering & Grouping
 - Tools: Spark SQL, DataFrame operations
